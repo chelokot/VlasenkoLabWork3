@@ -1,2 +1,2 @@
 AI-212
-$(pwd)	$(whoami)
+/HDD/git/VlasenkoLabWork3 chelokot
